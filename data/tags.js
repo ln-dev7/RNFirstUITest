@@ -1,30 +1,30 @@
 export const Tags = [
   {
     id: 1,
-    name: "React Native",
+    name: "HTML 5",
   },
   {
     id: 2,
-    name: "Flutter",
+    name: "CSS 3",
   },
   {
     id: 3,
-    name: "React",
+    name: "SCSS",
   },
   {
     id: 4,
-    name: "Node.js",
-  },
-  {
-    id: 5,
     name: "JavaScript",
   },
   {
+    id: 5,
+    name: "ReactJS",
+  },
+  {
     id: 6,
-    name: "Python",
+    name: "NextJS",
   },
   {
     id: 7,
-    name: "Django",
+    name: "LNUI",
   },
 ];
