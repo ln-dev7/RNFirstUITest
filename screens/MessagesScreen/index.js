@@ -4,13 +4,15 @@ import { Chats } from "../../data/chats";
 import React from "react";
 import ChatsList from "../../components/ChatsList";
 
-const MessagesScreen = () => {
+const MessagesScreen = ({ navigation }) => {
   return (
     <FlatList
       showsVerticalScrollIndicator={false}
       data={Chats}
       keyExtractor={(item) => item.id}
-      renderItem={({ item }) => <ChatsList item={item} />}
+      renderItem={({ item }) => (
+        <ChatsList item={item} navigation={navigation} />
+      )}
       style={{
         backgroundColor: COLORS.white,
       }}

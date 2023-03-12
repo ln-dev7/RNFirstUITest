@@ -33,7 +33,7 @@ const BottomTabs = () => {
         options={{
           tabBarLabel: "Acceuil",
           tabBarIcon: ({ color, size }) => (
-            <MaterialCommunityIcons name="home" color={color} size={size} />
+            <MaterialCommunityIcons name="home-outline" color={color} size={size} />
           ),
         }}
       />
@@ -43,7 +43,7 @@ const BottomTabs = () => {
         options={{
           tabBarLabel: "Messages",
           tabBarIcon: ({ color, size }) => (
-            <MaterialCommunityIcons name="message" color={color} size={size} />
+            <MaterialCommunityIcons name="chat-outline" color={color} size={size} />
           ),
           tabBarBadge: 3,
           // tabBarBadgeStyle: {
@@ -60,7 +60,7 @@ const BottomTabs = () => {
         options={{
           tabBarLabel: "Réglages",
           tabBarIcon: ({ color, size }) => (
-            <MaterialCommunityIcons name="cogs" color={color} size={size} />
+            <MaterialCommunityIcons name="cog-outline" color={color} size={size} />
           ),
         }}
       />

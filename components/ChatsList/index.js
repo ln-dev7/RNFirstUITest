@@ -10,7 +10,7 @@ import React from "react";
 import moment from "moment";
 import { COLORS } from "../../tools/contants";
 
-const ChatsList = ({ item }) => {
+const ChatsList = ({ item, navigation }) => {
   return (
     <TouchableOpacity
       style={{
@@ -81,6 +81,7 @@ const ChatsList = ({ item }) => {
             }}
           >
             {moment(item.date).format("LT")}
+            {/* {moment(item.date).fromNow(true)} */}
           </Text>
           {item.numberUnreadMessages > 0 && (
             <View
