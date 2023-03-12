@@ -18,7 +18,7 @@ import TagsList from "../../components/TagsList";
 import ProjectsList from "../../components/ProjectsList";
 import { Link } from "@react-navigation/native";
 
-const HomeScreen = () => {
+const HomeScreen = ({ navigation }) => {
   return (
     <ScrollView style={styles.container} showsVerticalScrollIndicator={false}>
       <View style={styles.header}>
@@ -98,7 +98,11 @@ const HomeScreen = () => {
         >
           Mes projets
         </Text>
-        <TouchableOpacity>
+        <TouchableOpacity
+          onPress={() =>
+            navigation.navigate("AllProjects", { Projects: Projects })
+          }
+        >
           <Text
             style={{
               fontSize: 15,
@@ -111,7 +115,7 @@ const HomeScreen = () => {
         </TouchableOpacity>
       </View>
       <View styl={styles.projectstList}>
-        {Projects.splice(0, 5).map((item) => (
+        {[...Projects].slice(0, 5).map((item) => (
           <TouchableOpacity
             key={item.id}
             style={{

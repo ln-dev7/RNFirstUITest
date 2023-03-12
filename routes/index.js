@@ -6,6 +6,7 @@ import Home from "../screens/HomeScreen";
 import BottomTabs from "../screens/tabs";
 import ChatDetailScreen from "../screens/ChatDetailScreen";
 import { countUnreadChats } from "../data/chats";
+import AllProjectsScreen from "../screens/AllProjectsScreen";
 
 const Stack = createNativeStackNavigator();
 
@@ -37,6 +38,14 @@ const Routes = () => {
           component={ChatDetailScreen}
           options={{
             headerBackTitle: `${countUnreadChats}`,
+            headerShown: true,
+          }}
+        />
+        <Stack.Screen
+          name="AllProjects"
+          component={AllProjectsScreen}
+          options={{
+            headerBackTitle: "Tous mes projets",
             headerShown: true,
           }}
         />

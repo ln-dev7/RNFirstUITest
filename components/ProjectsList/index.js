@@ -56,6 +56,7 @@ const ProjectsList = ({ item }) => {
           {item.name}
         </Text>
         <Text
+          numberOfLines={2}
           style={{
             fontSize: 14,
             color: COLORS.gray,
