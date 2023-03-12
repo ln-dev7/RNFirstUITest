@@ -1,13 +1,21 @@
-import { View, Text } from 'react-native'
+import { View, Text, FlatList } from "react-native";
 import { COLORS } from "../../tools/contants";
-import React from 'react'
+import { Chats } from "../../data/chats";
+import React from "react";
+import ChatsList from "../../components/ChatsList";
 
 const MessagesScreen = () => {
   return (
-    <View>
-      <Text>index</Text>
-    </View>
-  )
-}
+    <FlatList
+      showsVerticalScrollIndicator={false}
+      data={Chats}
+      keyExtractor={(item) => item.id}
+      renderItem={({ item }) => <ChatsList item={item} />}
+      style={{
+        backgroundColor: COLORS.white,
+      }}
+    />
+  );
+};
 
-export default MessagesScreen
+export default MessagesScreen;

@@ -38,16 +38,6 @@ const BottomTabs = () => {
         }}
       />
       <Tab.Screen
-        name="Réglages"
-        component={SettingsScreen}
-        options={{
-          tabBarLabel: "Réglages",
-          tabBarIcon: ({ color, size }) => (
-            <MaterialCommunityIcons name="cogs" color={color} size={size} />
-          ),
-        }}
-      />
-      <Tab.Screen
         name="Messages"
         component={MessagesScreen}
         options={{
@@ -62,6 +52,16 @@ const BottomTabs = () => {
           //   borderWidth: 1,
           //   borderColor: COLORS.secondary,
           // },
+        }}
+      />
+      <Tab.Screen
+        name="Réglages"
+        component={SettingsScreen}
+        options={{
+          tabBarLabel: "Réglages",
+          tabBarIcon: ({ color, size }) => (
+            <MaterialCommunityIcons name="cogs" color={color} size={size} />
+          ),
         }}
       />
     </Tab.Navigator>

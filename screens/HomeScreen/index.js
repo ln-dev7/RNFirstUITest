@@ -56,7 +56,7 @@ const HomeScreen = () => {
               paddingVertical: 12,
               paddingHorizontal: 20,
               borderRadius: 30,
-              backgroundColor: COLORS.primary,
+              backgroundColor: COLORS.secondary,
             }}
             onPress={() => Linking.openURL("http://lndev.me")}
           >
