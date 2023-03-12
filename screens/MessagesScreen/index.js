@@ -1,7 +1,7 @@
 import { View, Text, FlatList } from "react-native";
 import { COLORS } from "../../tools/contants";
 import { Chats } from "../../data/chats";
-import React from "react";
+import React, { useState, useEffect } from "react";
 import ChatsList from "../../components/ChatsList";
 
 const MessagesScreen = ({ navigation }) => {

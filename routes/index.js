@@ -5,6 +5,7 @@ import React from "react";
 import Home from "../screens/HomeScreen";
 import BottomTabs from "../screens/tabs";
 import ChatDetailScreen from "../screens/ChatDetailScreen";
+import { countUnreadChats } from "../data/chats";
 
 const Stack = createNativeStackNavigator();
 
@@ -35,14 +36,8 @@ const Routes = () => {
           name="ChatDetail"
           component={ChatDetailScreen}
           options={{
-            //title: "Acceuil",
-            headerStyle: {
-              // backgroundColor: "#f4511e",
-            },
-            // headerTintColor: "#fff",
-            headerTitleStyle: {
-              // fontWeight: "bold",
-            },
+            headerBackTitle: `${countUnreadChats}`,
+            headerShown: true,
           }}
         />
       </Stack.Navigator>

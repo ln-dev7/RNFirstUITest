@@ -4,7 +4,7 @@ export const Chats = [
     fullName: "Gerberge Moulin",
     lastMessage: "laboris do amet deserunt sint",
     date: "2022-03-15T12:39:24.699Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 4,
   },
   {
@@ -12,7 +12,7 @@ export const Chats = [
     fullName: "Bernadette Renard",
     lastMessage: "eu sint magna minim exerc",
     date: "2022-07-13T04:47:38.841Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -20,7 +20,7 @@ export const Chats = [
     fullName: "Francette Denis",
     lastMessage: "enim laborum sint ut sint aliquip",
     date: "2022-04-01T23:58:34.813Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 2,
   },
   {
@@ -29,7 +29,7 @@ export const Chats = [
     lastMessage:
       "Lorem est fugiat in dolor ea adipisicing cillum elit sint eiusmod qui aute",
     date: "2022-08-13T06:45:34.565Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -37,7 +37,7 @@ export const Chats = [
     fullName: "Héloïse Vasseur",
     lastMessage: "sit do ve",
     date: "2022-07-09T05:11:37.536Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -45,7 +45,7 @@ export const Chats = [
     fullName: "Géraud Philippe",
     lastMessage: "elit laboris irure tempor occaecat irure officia deserunt i",
     date: "2022-09-23T22:29:28.112Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 5,
   },
   {
@@ -53,7 +53,7 @@ export const Chats = [
     fullName: "Alexis Clement",
     lastMessage: "do dolor proident dolore ullamco sint Lorem Lorem ",
     date: "2022-08-31T22:45:34.988Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -62,7 +62,7 @@ export const Chats = [
     lastMessage:
       "amet pariatur sit ea voluptate id veniam tempor ad officia ipsum ad si",
     date: "2022-10-13T07:41:27.841Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -71,7 +71,7 @@ export const Chats = [
     lastMessage:
       "ex Lorem nostrud sint laborum dolore cillum Lorem minim tempor al",
     date: "2022-07-12T06:17:57.519Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -79,7 +79,7 @@ export const Chats = [
     fullName: "Suzon Lucas",
     lastMessage: "sint Lorem elit do pariatur duis amet anim reprehende",
     date: "2022-08-08T04:17:38.087Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -88,7 +88,7 @@ export const Chats = [
     lastMessage:
       "culpa incididunt id ex anim Lorem quis nostrud ipsum Lorem nisi",
     date: "2022-05-31T07:36:53.335Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -96,7 +96,7 @@ export const Chats = [
     fullName: "Parfait Deschamps",
     lastMessage: "anim eiusmod id cil",
     date: "2023-02-22T22:46:20.379Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -104,7 +104,7 @@ export const Chats = [
     fullName: "Raymonde Renault",
     lastMessage: "laborum quis veniam ullamco duis ullamco te",
     date: "2022-03-13T21:39:11.995Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -113,7 +113,7 @@ export const Chats = [
     lastMessage:
       "commodo excepteur adipisicing qui id officia est quis ad eiusmod ullamco eiusmod ut magna excepteu",
     date: "2022-06-21T06:01:06.286Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -121,7 +121,7 @@ export const Chats = [
     fullName: "Bénigne Gerard",
     lastMessage: "",
     date: "2023-02-07T02:05:21.902Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -130,7 +130,7 @@ export const Chats = [
     lastMessage:
       "consequat qui et laboris cupidatat exercitation do id duis tempor cillum ad adipisicing id a",
     date: "2022-07-28T20:55:11.210Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -138,7 +138,7 @@ export const Chats = [
     fullName: "Bastien Bertrand",
     lastMessage: "sunt minim occaecat fugiat officia eu la",
     date: "2022-04-28T16:25:02.428Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -146,7 +146,7 @@ export const Chats = [
     fullName: "Flodoard Chevalier",
     lastMessage: "velit labore id mollit ipsum temp",
     date: "2022-05-18T20:07:22.127Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -154,7 +154,7 @@ export const Chats = [
     fullName: "Hélène Caron",
     lastMessage: "officia amet ad elit laborum proident irure sint velit quis",
     date: "2022-12-03T13:42:57.115Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -162,7 +162,7 @@ export const Chats = [
     fullName: "Flavie Andre",
     lastMessage: "fugiat eiusmod veni",
     date: "2022-06-10T03:24:08.775Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -171,7 +171,7 @@ export const Chats = [
     lastMessage:
       "enim laborum est duis veniam proident occaecat consectetur laborum quis Lorem cupida",
     date: "2022-12-24T18:33:24.566Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -180,7 +180,7 @@ export const Chats = [
     lastMessage:
       "irure occaecat commodo sint in culpa laborum minim ullamco ea adipisicing ea consequat nisi officia ",
     date: "2022-05-07T14:47:44.008Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -189,7 +189,7 @@ export const Chats = [
     lastMessage:
       "enim aliquip qui adipisicing aute in excepteur nisi voluptate ad irure ad do",
     date: "2022-05-11T19:48:01.047Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -198,7 +198,7 @@ export const Chats = [
     lastMessage:
       "ullamco est elit non pariatur laborum aliquip anim duis fugiat ea ip",
     date: "2022-11-13T23:51:12.865Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -206,7 +206,7 @@ export const Chats = [
     fullName: "Alice Remy",
     lastMessage: "mol",
     date: "2022-05-12T22:01:40.937Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -214,7 +214,7 @@ export const Chats = [
     fullName: "Anselme Cousin",
     lastMessage: "quis tempor reprehend",
     date: "2022-03-18T17:30:15.078Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -223,7 +223,7 @@ export const Chats = [
     lastMessage:
       "sint culpa commodo laborum in sint labore pariatur in in laborum commodo eu ullamco volup",
     date: "2022-05-25T02:23:05.110Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -232,7 +232,7 @@ export const Chats = [
     lastMessage:
       "in magna non mollit Lorem ex ut velit ipsum ea cupidatat consectetur non reprehenderit non fug",
     date: "2023-03-11T17:25:32.745Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -241,7 +241,7 @@ export const Chats = [
     lastMessage:
       "ullamco esse dolor laboris occaecat qui proident consequat aliqua nulla ad ullamco esse elit minim ",
     date: "2022-05-21T20:47:09.714Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -250,7 +250,7 @@ export const Chats = [
     lastMessage:
       "mollit consectetur esse laborum magna id veniam amet eiusmod est non reprehenderit",
     date: "2023-02-19T22:33:21.055Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -259,7 +259,7 @@ export const Chats = [
     lastMessage:
       "fugiat ullamco id enim aute adipisicing dolore aliquip do ad aute laboris occaecat ipsum esse",
     date: "2022-10-28T18:19:38.511Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -268,7 +268,7 @@ export const Chats = [
     lastMessage:
       "amet sit cupidatat cillum eu ex quis mollit dolor laboris aute officia irure eiusmod laboris reprehe",
     date: "2022-11-07T04:40:17.358Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -277,7 +277,7 @@ export const Chats = [
     lastMessage:
       "in fugiat fugiat quis ad anim ut enim elit ad eu fugiat quis eiusmod duis officia ex conseq",
     date: "2023-03-10T06:52:36.557Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -285,7 +285,7 @@ export const Chats = [
     fullName: "Absalon Leroy",
     lastMessage: "cillum ",
     date: "2022-07-21T09:39:36.717Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -294,7 +294,7 @@ export const Chats = [
     lastMessage:
       "proident esse sit commodo quis fugiat proident deserunt cillum ",
     date: "2022-03-25T03:00:36.153Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -302,7 +302,7 @@ export const Chats = [
     fullName: "Capucine Marie",
     lastMessage: "consequat officia fugiat anim sunt ad reprehe",
     date: "2022-09-07T00:24:36.419Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -310,7 +310,7 @@ export const Chats = [
     fullName: "Mallaury Cousin",
     lastMessage: "magna labor",
     date: "2023-01-17T16:56:24.947Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -318,7 +318,7 @@ export const Chats = [
     fullName: "Paterne Fontaine",
     lastMessage: "exercitation amet veniam nulla aute irure qui eu officia ",
     date: "2022-05-30T19:42:47.551Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -326,7 +326,7 @@ export const Chats = [
     fullName: "Alban Noel",
     lastMessage: "nisi dolor in Lorem velit laboris consequat in consequat cup",
     date: "2022-05-22T12:54:29.339Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -334,7 +334,7 @@ export const Chats = [
     fullName: "Perceval Jacquet",
     lastMessage: "off",
     date: "2022-03-19T14:32:32.680Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -342,7 +342,7 @@ export const Chats = [
     fullName: "Stéphanie Duval",
     lastMessage: "mag",
     date: "2022-12-10T21:48:11.264Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -351,7 +351,7 @@ export const Chats = [
     lastMessage:
       "est commodo proident enim magna non sunt in mollit laboris et ",
     date: "2022-10-26T07:05:04.758Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -360,7 +360,7 @@ export const Chats = [
     lastMessage:
       "laborum dolor et tempor ad aliquip quis consectetur elit tempor excepteur ",
     date: "2023-02-12T17:48:14.839Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -368,7 +368,7 @@ export const Chats = [
     fullName: "Falba Aubert",
     lastMessage: "cillum u",
     date: "2022-10-15T02:30:20.058Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -377,7 +377,7 @@ export const Chats = [
     lastMessage:
       "incididunt aute sit excepteur pariatur elit esse ut ad irure non consequat temp",
     date: "2022-05-09T00:03:37.674Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -386,7 +386,7 @@ export const Chats = [
     lastMessage:
       "qui aliqua ipsum culpa ea ullamco ut anim nulla labore officia ipsum excepteur in aliqua",
     date: "2022-03-17T13:19:34.260Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -394,7 +394,7 @@ export const Chats = [
     fullName: "Cédric Vasseur",
     lastMessage: "excepteur voluptate est incididunt pariatur irure ",
     date: "2022-04-02T08:31:19.818Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -402,7 +402,7 @@ export const Chats = [
     fullName: "Blaise Barbier",
     lastMessage: "tempor in cupidatat do dolore do incididunt do",
     date: "2022-05-12T13:48:48.394Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -410,7 +410,7 @@ export const Chats = [
     fullName: "Euphrasie Masson",
     lastMessage: "labore duis irure voluptate nulla nulla id deserun",
     date: "2022-03-13T21:33:41.373Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -419,7 +419,7 @@ export const Chats = [
     lastMessage:
       "cillum ex laboris ullamco qui ut nulla ipsum velit nostrud commodo nostrud consequat ut pariatur exe",
     date: "2022-05-14T15:02:48.003Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -428,7 +428,7 @@ export const Chats = [
     lastMessage:
       "in cillum dolore consectetur do exercitation qui eu consequat Lorem irure adipisicing sit",
     date: "2022-11-17T22:38:50.279Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -436,7 +436,7 @@ export const Chats = [
     fullName: "Ella Lefebvre",
     lastMessage: "do mollit duis sit proiden",
     date: "2022-10-04T07:18:34.954Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -445,7 +445,7 @@ export const Chats = [
     lastMessage:
       "tempor est quis qui adipisicing non duis officia dolor et adipisicing vel",
     date: "2022-10-14T20:01:28.631Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -454,7 +454,7 @@ export const Chats = [
     lastMessage:
       "aliqua proident consequat id fugiat minim nulla qui incididunt",
     date: "2023-02-04T03:33:37.304Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -463,7 +463,7 @@ export const Chats = [
     lastMessage:
       "nulla exercitation adipisicing eiusmod nulla ut incididunt et aute et esse qui enim dolo",
     date: "2022-06-13T22:04:37.073Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -471,7 +471,7 @@ export const Chats = [
     fullName: "Odilon Clement",
     lastMessage: "deserunt nos",
     date: "2022-10-21T22:34:36.889Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -479,7 +479,7 @@ export const Chats = [
     fullName: "Alcine Roussel",
     lastMessage: "enim commodo dolore magna ut aute proident commodo",
     date: "2022-05-31T00:52:33.166Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -487,7 +487,7 @@ export const Chats = [
     fullName: "Fortunée Morel",
     lastMessage: "exercitation ut proident nostrud pariatur ",
     date: "2022-04-29T22:10:06.323Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -496,7 +496,7 @@ export const Chats = [
     lastMessage:
       "ipsum velit culpa nisi Lorem cillum in duis voluptate velit ullamco pariat",
     date: "2022-10-19T22:21:36.237Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -504,7 +504,7 @@ export const Chats = [
     fullName: "Mélodie Gerard",
     lastMessage: "nisi irure non cul",
     date: "2022-11-16T08:37:15.977Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -512,7 +512,7 @@ export const Chats = [
     fullName: "Daphné Fabre",
     lastMessage: "culpa dolore cillum ",
     date: "2022-04-14T21:52:40.112Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -521,7 +521,7 @@ export const Chats = [
     lastMessage:
       "culpa esse pariatur esse aute mollit sint enim consectetur offi",
     date: "2022-06-28T21:41:00.538Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -529,7 +529,7 @@ export const Chats = [
     fullName: "Eusébie Bernard",
     lastMessage: "voluptate elit laborum incididunt ut deserunt null",
     date: "2022-11-20T12:38:09.040Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -537,7 +537,7 @@ export const Chats = [
     fullName: "Agathe Berger",
     lastMessage: "occaecat id ",
     date: "2023-02-25T07:03:55.383Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -545,7 +545,7 @@ export const Chats = [
     fullName: "Marthe Lefebvre",
     lastMessage: "consequat pariatur consequat except",
     date: "2022-12-09T01:07:24.878Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -553,7 +553,7 @@ export const Chats = [
     fullName: "Élzéar Adam",
     lastMessage: "sint a",
     date: "2022-05-26T17:30:09.782Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -562,7 +562,7 @@ export const Chats = [
     lastMessage:
       "tempor aliquip consequat irure occaecat labore elit ipsum aliquip velit veniam e",
     date: "2022-06-27T13:35:51.368Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -570,7 +570,7 @@ export const Chats = [
     fullName: "Aquiline Julien",
     lastMessage: "non do pariatur aute labore adipis",
     date: "2022-07-07T21:42:09.214Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -578,7 +578,7 @@ export const Chats = [
     fullName: "Pétronille Henry",
     lastMessage: "sint ea nulla labore anim voluptate esse occaecat aliquip ",
     date: "2023-03-03T13:08:10.401Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -587,7 +587,7 @@ export const Chats = [
     lastMessage:
       "sit sunt dolor duis ex sunt nisi amet dolor ad elit incididunt ",
     date: "2022-11-02T22:55:35.371Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -596,7 +596,7 @@ export const Chats = [
     lastMessage:
       "nostrud exercitation sint id mollit duis proident qui do nostrud laboris excepteu",
     date: "2022-08-06T00:25:58.074Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -605,7 +605,7 @@ export const Chats = [
     lastMessage:
       "consectetur ipsum nostrud ullamco ad et officia do proident eiusmod et incididunt id e",
     date: "2022-05-19T23:47:48.547Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -614,7 +614,7 @@ export const Chats = [
     lastMessage:
       "pariatur cupidatat sunt Lorem cillum enim culpa cillum irure aute qui reprehenderit exercitation co",
     date: "2022-04-02T22:24:07.049Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -622,7 +622,7 @@ export const Chats = [
     fullName: "Diane Gautier",
     lastMessage: "do ex duis reprehen",
     date: "2022-12-01T11:42:27.427Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -630,7 +630,7 @@ export const Chats = [
     fullName: "Dorothée Adam",
     lastMessage: "dolore aliqu",
     date: "2022-10-26T19:11:08.013Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -639,7 +639,7 @@ export const Chats = [
     lastMessage:
       "occaecat ad veniam aliquip exercitation ea in sint ad laboris magna irure commodo quis id amet aliqu",
     date: "2022-08-16T10:21:21.666Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -648,7 +648,7 @@ export const Chats = [
     lastMessage:
       "laborum eiusmod et reprehenderit Lorem tempor duis dolor in nis",
     date: "2022-12-20T13:52:32.991Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
   {
@@ -657,7 +657,14 @@ export const Chats = [
     lastMessage:
       "ea est adipisicing esse velit excepteur et Lorem laboris nisi aute sit culpa proident voluptate i",
     date: "2022-12-15T15:13:55.838Z",
-    image: "https://source.unsplash.com/random/500x500",
+    image: "https://picsum.photos/200",
     numberUnreadMessages: 0,
   },
 ];
+
+export const countUnreadChats = Chats.reduce((acc, chat) => {
+  if (chat.numberUnreadMessages > 0) {
+    acc++;
+  }
+  return acc;
+}, 0);

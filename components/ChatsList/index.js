@@ -6,13 +6,16 @@ import {
   Linking,
   TouchableOpacity,
 } from "react-native";
-import React from "react";
+import React, { useEffect, useState } from "react";
 import moment from "moment";
 import { COLORS } from "../../tools/contants";
 
 const ChatsList = ({ item, navigation }) => {
   return (
     <TouchableOpacity
+      onPress={() =>
+        navigation.navigate("ChatDetail", { item })
+      }
       style={{
         flexDirection: "row",
         justifyContent: "flex-start",
