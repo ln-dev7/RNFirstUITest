@@ -12,6 +12,7 @@ import { COLORS } from "../../tools/contants";
 import { Conversations } from "../../data/conversations";
 import MaterialCommunityIcons from "react-native-vector-icons/MaterialCommunityIcons";
 import Message from "../../components/Message";
+import MessageInput from "../../components/MessageInput";
 
 const ChatDetailScreen = ({
   route: {
@@ -64,13 +65,22 @@ const ChatDetailScreen = ({
       source={{
         uri: "https://wallpaper.dog/large/20525628.jpg",
       }}
+      style={{
+        flex: 1,
+      }}
     >
-      <View>
+      <View
+        style={{
+          flex: 1,
+          //paddingBottom: 95,
+        }}
+      >
         <FlatList
           data={Conversations}
           keyExtractor={(item) => item.id}
           renderItem={({ item }) => <Message item={item} />}
         />
+        <MessageInput />
       </View>
     </ImageBackground>
   );

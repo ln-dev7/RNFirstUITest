@@ -20,11 +20,15 @@ const Message = ({ item }) => {
         borderRadius: 15,
       }}
     >
-      <Text style={{
-        color: COLORS.secondary,
-        fontSize: 13,
-        fontWeight: 500,
-      }}>{item.message}</Text>
+      <Text
+        style={{
+          color: COLORS.secondary,
+          fontSize: 13,
+          fontWeight: 500,
+        }}
+      >
+        {item.message}
+      </Text>
       <Text
         style={{ color: "#888", fontSize: 12, marginTop: 3, fontWeight: 600 }}
       >
